@@ -1,1 +1,29 @@
-Hello World
+body {
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+}
